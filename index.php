@@ -1,1 +1,1 @@
-<?php phpinfo();?>
+<h1>HALO</h1>
